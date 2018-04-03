@@ -32,7 +32,6 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'HoneyGen.apps.HoneygenConfig',
-    'HoneyCheck.apps.HoneycheckConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
